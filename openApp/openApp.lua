@@ -23,7 +23,7 @@ hs.hotkey.bind({ "ctrl", "alt", "cmd" }, "E", function ()
 end)
 
 hs.hotkey.bind({ "ctrl", "alt", "cmd" }, "P", function ()
-	hs.application.launchOrFocus('Insomnia')
+	hs.application.launchOrFocus('Hoppscotch')
 end)
 
 hs.hotkey.bind({ "ctrl", "alt", "cmd" }, "S", function ()
@@ -47,7 +47,7 @@ hs.hotkey.bind({ "ctrl", "alt", "cmd" }, "F", function ()
 end)
 
 hs.hotkey.bind({ "ctrl", "alt", "cmd" }, "M", function ()
-	hs.application.launchOrFocus('Foxmail')
+	hs.application.launchOrFocus('Teams-New')
 end)
 
 

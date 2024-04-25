@@ -5,3 +5,5 @@ require "volume.volume"
 require "openApp.openApp"
 require "wifi.wifi"
 require "mouse.mouseHighlight"
+print(hs.location.get())
+print('==================================================')
